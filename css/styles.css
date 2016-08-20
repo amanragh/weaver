@@ -122,7 +122,9 @@ h1 {
 .ads{
 	display:none !important;
     }
-    
+h1{
+	top:100px;
+}    
     
 ul.nav li a {
     display: inline-block;
