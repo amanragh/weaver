@@ -117,6 +117,10 @@ h1 {
 	width: 20%;
 	height: 650px;
 }
+@mediascreen and (max-width:640px)
+.ads{
+	width:0px;	
+}
 .ads1 {
 	background-color: #666;
 	width: 70%;
