@@ -129,8 +129,7 @@ h1 {
 	display:none !important;
     }
 h1{
-	font-size: 12px;
-	top: 110px;
+	display:none !important;
 }    
     
 ul.nav li a {
