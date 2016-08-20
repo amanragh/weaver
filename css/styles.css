@@ -122,9 +122,15 @@ h1 {
 .ads{
 	display:none !important;
     }
+    
  h1 {
 	top: 180px;
+	font-size: 12px;
     }
+    
+ ul.nav li a {
+	font-size: 12px;
+}   
 }
 .ads1 {
 	background-color: #666;
