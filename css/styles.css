@@ -1,0 +1,154 @@
+#header {
+	height: 180px;
+	width: 100%;
+}
+#header {
+	font-size: 26px;
+	font-style: oblique;
+	color: #FFFFFF;
+	text-decoration: line-through;
+	background-color: #0000FF;
+	background-image: url(.jpg);
+}
+#navbar {
+	font-size: 16px;
+}
+#navbar {
+	height: 20px;
+	width: auto;
+}
+ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+ul.nav li {float:left;}
+
+ul.nav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+ul.nav li a:hover {background-color: #555;}
+
+.green_btn {
+	border-radius: 25px;
+	background-color: #0099FF;
+	display: block;
+	width: 154px;
+	height: 45px;
+}
+.green_btn:hover {
+	background-color: #0033FF;
+	color: #000;
+}
+.g1_btn {
+	border-radius: 25px;
+	background-color: #0099FF;
+	display: block;
+	width: 154px;
+	height: 45px;
+}
+.g1_btn:hover {
+	background-color: #0033FF;
+	color: #000;
+}
+.g2_btn {
+	border-radius: 25px;
+	background-color: #0099FF;
+	display: block;
+	width: 154px;
+	height: 45px;
+}
+.g2_btn:hover {
+	background-color: #0033FF;
+	color: #000;
+}
+.g3_btn {
+	border-radius: 35px;
+	background-color: #000000;
+	display: block;
+	width: 260px;
+	height: 60px;
+}
+.g3_btn:hover {
+	background-color: #993333;
+	color: #000;
+}
+.green_btn , .g1_btn , .g2_btn{
+display:inline-block;
+}
+.boxed {
+	display: inline-block;
+	background-color: #0F9;
+	border: 1px solid black;
+	height: 400px;
+	width: 300px;
+}
+.boxed1 {
+	display:inline-block;
+	background-color: #0F9;
+	border: 1px solid black ;
+	height: 400px;
+	width: 300px;
+}
+.boxed2 {
+	display:inline-block;
+	background-color: #0F9;
+	border: 1px solid black ;
+	height: 400px;
+	width: 300px;
+}
+
+
+h1 {
+	position: relative;
+	top: 130px;
+}
+.ads {
+	float: right;
+	background-color: #666;
+	width: 20%;
+	height: 650px;
+}
+.ads1 {
+	background-color: #666;
+	width: 70%;
+	height: 150px;
+}
+.anim {
+	float:left;
+}
+.form {
+	border-radius: 25px;
+	width:120px;
+	height:40px;
+	background-color:#000;
+	color:#FFF;
+}
+.form:hover {
+	background-color: #900;
+}
+.tfield {
+	width:360px;
+	height:30px;
+	font-size: 16px;
+}
+.howto {
+	margin-left:2cm;
+	background-color:#FFF;
+	height:100%;
+	width:65%;
+}
+.tutorials {
+	margin-left:2cm;
+	background-color:#FFF;
+	height:100%;
+	width:65%;
+}
