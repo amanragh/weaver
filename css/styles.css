@@ -110,6 +110,7 @@ display:inline-block;
 h1 {
 	position: relative;
 	top: 130px;
+	font-size:18px;
 }
 .ads {
 	float: right;
@@ -128,6 +129,7 @@ h1 {
 	display:none !important;
     }
 h1{
+	font-size:14px;
 	top: 70px;
 }    
     
