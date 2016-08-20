@@ -122,6 +122,10 @@ h1 {
 .ads{
 	display:none !important;
     }
+ h1 {
+	position: relative;
+	top: 150px;
+    }
 }
 .ads1 {
 	background-color: #666;
