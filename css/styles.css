@@ -110,7 +110,7 @@ display:inline-block;
 h1 {
 	position: relative;
 	top: 130px;
-	font-size:22px;
+	font-size:24px;
 }
 .ads {
 	float: right;
@@ -129,8 +129,8 @@ h1 {
 	display:none !important;
     }
 h1{
-	font-size:14px;
-	top: 70px;
+	font-size:16px;
+	top: 110px;
 }    
     
 ul.nav li a {
