@@ -121,7 +121,7 @@ h1 {
 @media only screen and (max-width:640px)
 {
 	#header {
-	font-size: 18px;
+	font-size: 14px;
 	height: 140px;
 	width: 100%;
 }
