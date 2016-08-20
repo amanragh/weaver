@@ -128,8 +128,9 @@ h1 {
 .ads{
 	display:none !important;
     }
-h1{
-	top: 110px;
+h1 {
+	position: relative;
+	top: 130px;
 	font-size:14px;
 }    
     
