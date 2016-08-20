@@ -119,6 +119,10 @@ h1 {
 }
 @media only screen and (max-width:640px)
 {
+	#header {
+	height: 140px;
+	width: 100%;
+}
 .ads{
 	display:none !important;
     }
