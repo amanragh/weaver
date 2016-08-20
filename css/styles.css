@@ -122,16 +122,14 @@ h1 {
 {
 	#header {
 	font-size: 14px;
-	height: 140px;
+	height: 120px;
 	width: 100%;
 }
 .ads{
 	display:none !important;
     }
 h1 {
-	position: relative;
-	top: 130px;
-	font-size:14px;
+display:none;
 }    
     
 ul.nav li a {
