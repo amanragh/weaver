@@ -73,7 +73,7 @@ ul.nav li a:hover {background-color: #555;}
 .g3_btn {
 	border-radius: 35px;
 	background-color: #000000;
-	display: block;
+	display:inline-block;
 	width: 260px;
 	height: 60px;
 }
