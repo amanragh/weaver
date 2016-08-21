@@ -152,7 +152,7 @@ display:inline-block;
 {
 	#header {
 		width:auto;
-		height:auto;
+		height:180px;
         }
 .ads{
 	display:none !important;
