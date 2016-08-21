@@ -6,9 +6,8 @@
 	font-size: 26px;
 	font-style: oblique;
 	color: #FFFFFF;
-	text-decoration: line-through;
 	background-color: #0000FF;
-	background-image: url(.jpg);
+	background-image: url(/pictures/logo1.jpg);
 }
 #navbar {
 	font-size: 16px;
@@ -106,12 +105,6 @@ display:inline-block;
 	width: 300px;
 }
 
-
-h1 {
-	position: relative;
-	top: 130px;
-	font-size:24px;
-}
 .ads {
 	float: right;
 	background-color: #666;
@@ -165,9 +158,6 @@ h1 {
 .ads{
 	display:none !important;
     }
-h1{
-	display:none;
-}   
     
 ul.nav li a {
     display: inline-block;
