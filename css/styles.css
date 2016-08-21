@@ -204,5 +204,6 @@ padding: 5px;
 border: 0;
 box-shadow: 0;
 display: inline;
-position:relative;
+position:fixed;
+float:right;
 }
