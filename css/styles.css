@@ -149,12 +149,10 @@ display:inline-block;
 }
 
 @media only screen and (max-device-width:640px)
-{
-  #header {
+
+#header {
 	height: 120px;
 	width: 100%;
-}
-#header {
 	font-size: ;
 	font-style: oblique;
 	color: #FFFFFF;
