@@ -128,9 +128,9 @@ h1 {
 .ads{
 	display:none !important;
     }
-h1 {
-display:none;
-}    
+h1{
+	display:none;
+}   
     
 ul.nav li a {
     display: inline-block;
