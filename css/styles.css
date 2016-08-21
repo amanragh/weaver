@@ -140,7 +140,28 @@ ul.nav li a {
     text-decoration: none;
     transition: 0.3s;
     font-size: 12px;
-}   
+}  
+.boxed {
+	display: inline-block;
+	background-color: #0F9;
+	border: 1px solid black;
+	height: 400px;
+	width: auto;
+}
+.boxed1 {
+	display:inline-block;
+	background-color: #0F9;
+	border: 1px solid black ;
+	height: 400px;
+	width: auto;
+}
+.boxed2 {
+	display:inline-block;
+	background-color: #0F9;
+	border: 1px solid black ;
+	height: 400px;
+	width: auto;
+}
 }
 .ads1 {
 	background-color: #666;
