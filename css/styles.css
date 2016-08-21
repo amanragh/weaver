@@ -151,11 +151,8 @@ display:inline-block;
 @media only screen and (max-device-width:640px)
 {
 	#header {
-	font-size: 12px;
-	font-style: oblique;
-	color: #FFFFFF;
-	background-color: #0000FF;
-	background-image: url(/pictures/logo1.jpg);
+		width:auto;
+		height:auto;
         }
 .ads{
 	display:none !important;
