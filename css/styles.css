@@ -152,6 +152,7 @@ display:inline-block;
 {
 	#header {
 		width: auto;
+		height: 240px;
         }
 .ads{
 	display:none !important;
