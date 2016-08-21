@@ -3,7 +3,7 @@
 	width: 100%;
 }
 #header {
-	font-size: 24px;
+	font-size: ;
 	font-style: oblique;
 	color: #FFFFFF;
 	background-color: #0000FF;
@@ -151,7 +151,7 @@ display:inline-block;
 @media only screen and (max-device-width:640px)
 {
 	#header {
-	font-size: 20px;
+	font-size: 12px;
 	font-style: oblique;
 	color: #FFFFFF;
 	background-color: #0000FF;
