@@ -150,6 +150,9 @@ display:inline-block;
 
 @media only screen and (max-device-width:640px)
 {
+	#header{
+		height:100;
+	}
 
 .ads{
 	display:none !important;
