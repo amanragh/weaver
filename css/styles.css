@@ -118,6 +118,43 @@ h1 {
 	width: 20%;
 	height: 650px;
 }
+
+.ads1 {
+	background-color: #666;
+	width: 70%;
+	height: 150px;
+}
+.anim {
+	float:left;
+}
+.form {
+	border-radius: 25px;
+	width:120px;
+	height:40px;
+	background-color:#000;
+	color:#FFF;
+}
+.form:hover {
+	background-color: #900;
+}
+.tfield {
+	width:360px;
+	height:30px;
+	font-size: 16px;
+}
+.howto {
+	margin-left:2cm;
+	background-color:#FFF;
+	height:100%;
+	width:65%;
+}
+.tutorials {
+	margin-left:2cm;
+	background-color:#FFF;
+	height:100%;
+	width:65%;
+}
+
 @media only screen and (min-width:210px) and (max-width:640px)
 {
 	#header {
@@ -163,41 +200,7 @@ ul.nav li a {
 	width: 300px;
 }
 }
-.ads1 {
-	background-color: #666;
-	width: 70%;
-	height: 150px;
-}
-.anim {
-	float:left;
-}
-.form {
-	border-radius: 25px;
-	width:120px;
-	height:40px;
-	background-color:#000;
-	color:#FFF;
-}
-.form:hover {
-	background-color: #900;
-}
-.tfield {
-	width:360px;
-	height:30px;
-	font-size: 16px;
-}
-.howto {
-	margin-left:2cm;
-	background-color:#FFF;
-	height:100%;
-	width:65%;
-}
-.tutorials {
-	margin-left:2cm;
-	background-color:#FFF;
-	height:100%;
-	width:65%;
-}
+
 #share-buttons img {
 width: 35px;
 padding: 5px;
