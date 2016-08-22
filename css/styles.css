@@ -178,27 +178,6 @@ ul.nav li a {
     transition: 0.3s;
     font-size: 12px;
 }  
-.boxed {
-	display: inline-block;
-	background-color: #0F9;
-	border: 1px solid black;
-	height: 400px;
-	width: 300px;
-}
-.boxed1 {
-	display:inline-block;
-	background-color: #0F9;
-	border: 1px solid black ;
-	height: 400px;
-	width: 300px;
-}
-.boxed2 {
-	display:inline-block;
-	background-color: #0F9;
-	border: 1px solid black ;
-	height: 400px;
-	width: 300px;
-}
 }
 
 #share-buttons img {
