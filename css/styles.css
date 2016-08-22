@@ -41,6 +41,7 @@ ul.nav li a:hover {background-color: #555;}
 	width:78%;
 }
 #sidebar {
+	border:2px solid black;
 	float:right;
 	height:auto;
 	width:20%;
