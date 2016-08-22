@@ -37,10 +37,12 @@ ul.nav li a {
 ul.nav li a:hover {background-color: #555;}
 
 #main {
+	border:1px solid black;
 	height:auto;
 	width:70%;
 }
 #sidebar {
+	border:1px solid black;
 	float:right;
 	height:auto;
 	width:30%;
