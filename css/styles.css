@@ -32,7 +32,7 @@ ul.nav li a {
     padding: 14px 16px;
     text-decoration: none;
     transition: 0.3s;
-    font-size: 2.5em;
+    font-size: 14pt;
 }
 ul.nav li a:hover {background-color: #555;}
 
