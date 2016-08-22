@@ -36,6 +36,16 @@ ul.nav li a {
 }
 ul.nav li a:hover {background-color: #555;}
 
+#main {
+	height:auto;
+	width:70%;
+}
+#sidebar {
+	float:right;
+	height:auto;
+	width:30%;
+}
+
 .green_btn {
 	border-radius: 25px;
 	background-color: #0099FF;
