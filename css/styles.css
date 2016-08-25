@@ -174,17 +174,17 @@ display:inline-block;
     float: right;
     display: inline-block;
   }
-    ul.topnav.responsive {position: relative;}
-  ul.topnav.responsive li.icon {
+    ul.nav.responsive {position: relative;}
+  ul.nav.responsive li.icon {
     position: absolute;
     right: 0;
     top: 0;
   }
-  ul.topnav.responsive li {
+  ul.nav.responsive li {
     float: none;
     display: inline;
   }
-  ul.topnav.responsive li a {
+  ul.nav.responsive li a {
     display: block;
     text-align: left;
   }
