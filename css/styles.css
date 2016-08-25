@@ -177,6 +177,12 @@ ul.nav li a {
     transition: 0.3s;
     font-size: 9px;
 }
+  ul.topnav li:not(:first-child) {display: none;}
+  ul.topnav li.icon {
+    float: right;
+    display: inline-block;
+  }
+  
 
 #sidebar {
 	display:none !important;
