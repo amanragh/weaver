@@ -168,7 +168,7 @@ display:inline-block;
 	width: 100%;
 }
 
-  ul.nav li:not(:first-child) {display: none;}
+  ul.nav li:not(:fifth-child) {display: none;}
   ul.nav li.icon {
     float: right;
     display: inline-block;
