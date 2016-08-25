@@ -169,8 +169,8 @@ display:inline-block;
 	width: 100%;
 }
 
-  ul.topnav li:not(:first-child) {display: none;}
-  ul.topnav li.icon {
+  ul.nav li:not(:first-child) {display: none;}
+  ul.nav li.icon {
     float: right;
     display: inline-block;
   }
