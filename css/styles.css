@@ -116,6 +116,7 @@ display:inline-block;
 }
 .boxed, .boxed1, .boxed2 {
 	margin:1%;
+	vertical-align: top;
 }
 
 .ads {
