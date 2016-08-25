@@ -97,21 +97,21 @@ display:inline-block;
 	display: inline-block;
 	background-color: #0F9;
 	border: 1px solid black;
-	height: 400px;
+	height: auto;
 	width: 300px;
 }
 .boxed1 {
 	display:inline-block;
 	background-color: #0F9;
 	border: 1px solid black ;
-	height: 400px;
+	height: auto;
 	width: 300px;
 }
 .boxed2 {
 	display:inline-block;
 	background-color: #0F9;
 	border: 1px solid black ;
-	height: 400px;
+	height: auto;
 	width: 300px;
 }
 .boxed, .boxed1, .boxed2 {
