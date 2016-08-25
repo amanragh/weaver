@@ -167,12 +167,15 @@ display:inline-block;
 	height: 95px;
 	width: 100%;
 }
-
-  ul.nav li:not(:fifth-child) {display: none;}
-  ul.nav li.icon {
-    float: right;
+ul.nav li a {
     display: inline-block;
-  }
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 14px;
+}
 
 #sidebar {
 	display:none !important;
