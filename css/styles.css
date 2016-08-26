@@ -95,21 +95,21 @@ display:inline-block;
 }
 .boxed {
 	display: inline-block;
-	background-color: #cc66ff;
+	background-color: #66ff66;
 	border: 1px solid black;
 	height: auto;
 	width: 300px;
 }
 .boxed1 {
 	display:inline-block;
-	background-color: #cc66ff;
+	background-color: #66ff66;
 	border: 1px solid black ;
 	height: auto;
 	width: 300px;
 }
 .boxed2 {
 	display:inline-block;
-	background-color: #cc66ff;
+	background-color: #66ff66;
 	border: 1px solid black ;
 	height: auto;
 	width: 300px;
