@@ -98,21 +98,21 @@ display:inline-block;
 	background-color: #4dff4d;
 	border: 1px solid black;
 	height: auto;
-	width: 18em;
+	width: 18.7em;
 }
 .boxed1 {
 	display:inline-block;
 	background-color: #4dff4d;
 	border: 1px solid black ;
 	height: auto;
-	width: 300px;
+	width: 18.7em;
 }
 .boxed2 {
 	display:inline-block;
 	background-color: #4dff4d;
 	border: 1px solid black ;
 	height: auto;
-	width: 300px;
+	width: 18.7em;
 }
 .boxed, .boxed1, .boxed2 {
 	margin:1%;
