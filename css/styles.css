@@ -1,5 +1,5 @@
 #header {
-	height: 180px;
+	height: 11.25em;
 	width: 100%;
 }
 #header {
@@ -157,10 +157,6 @@ display:inline-block;
 
 @media only screen and (max-width:640px)
 {
-#header {
-	height: 95px;
-	width: 100%;
-}
 ul.nav li {
 	display:block;
 }
