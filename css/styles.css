@@ -19,7 +19,6 @@ ul.nav {
 ul.nav li {display:inline-block;}
 
 ul.nav li a {
-    display: inline-block;
     color: #f2f2f2;
     text-align: center;
     padding: 14px 16px;
@@ -161,9 +160,6 @@ display:inline-block;
 	height: 95px;
 	width: 100%;
 }
-.nav li a{
-	display:block;
-}
 .nav li {
 	display:block;
 }
@@ -172,7 +168,7 @@ display:inline-block;
 	display:none;
 }
 .nav-btn:before{
-	content:"Menu";
+	content:"&#9776;";
 }
 .nav-btn{
 	display:block;
