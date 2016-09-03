@@ -165,6 +165,9 @@ ul.nav li {
 	display:block;
 }
 .nav{
+	float:right;
+	padding-left:5px;
+	padding-right:5px;
 	text-align:center;
 	display:none;
 }
