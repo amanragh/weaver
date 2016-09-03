@@ -10,7 +10,6 @@
 	background-image: url(/pictures/logo1.jpg);
 }
 ul.nav {
-	position:fixed;
     list-style-type: none;
     margin: 0;
     padding: 0;
