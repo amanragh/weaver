@@ -168,7 +168,7 @@ display:inline-block;
 	display:none;
 }
 .nav-btn:before{
-	content:"&#9776;";
+	content:"Menu";
 }
 .nav-btn{
 	display:block;
