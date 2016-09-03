@@ -169,7 +169,7 @@ ul.nav li {
 	display:none;
 }
 .nav-btn:before{
-	content:'#9776';
+	content:'&equiv';
 }
 .nav-btn{
 	display:block;
