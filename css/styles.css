@@ -161,7 +161,7 @@ display:inline-block;
 	height: 95px;
 	width: 100%;
 }
-.nav li{
+.nav li a{
 	display:block;
 }
 .nav{
