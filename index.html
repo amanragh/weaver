@@ -23,12 +23,22 @@
 <body>
 
 <br/>
-<ul class="nav" id="mynav">
+<nav>
+  <span class="nav-btn"></span>
+<ul class="nav">
   <li><a href="index.html">Home</a></li>
   <li><a href="submit.html">Submit Post</a></li>
   <li><a href="contact.html">Contact</a></li>
   <li><a href="about.html">About Us</a></li>
-</ul><br/>
+</ul>
+</nav>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+  $('span.nav-btn').click(function() {
+    $('ul.nav').toggle();
+  })
+</script>
+<br/>
 
 <div id="header">
 <marquee behavior="alternate" scrollamount="15"><font color="#FFFFFF" size="3em"><br/> <b>Welcome to TechVenom</b> </font></marquee>
