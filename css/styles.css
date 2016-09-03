@@ -168,14 +168,22 @@ display:inline-block;
 	height: 95px;
 	width: 100%;
 }
-ul.nav li a {
-    display: inline-block;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 10px;
-    text-decoration: none;
-    transition: 0.3s;
-    font-size: 10px;
+.nav li{
+	display:block;
+}
+.nav{
+	text-align:left;
+	display:none;
+}
+.nav-btn:before{
+	content:"Menu";
+}
+.nav-btn{
+	display:block;
+	background-color: #333;
+	color:#f2f2f2;
+	font-size:14px;
+	text-align:center;
 }
 
 #sidebar {
