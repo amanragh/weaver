@@ -9,13 +9,6 @@
 	background-color: #0000FF;
 	background-image: url(/pictures/logo1.jpg);
 }
-#navbar {
-	font-size: 16px;
-}
-#navbar {
-	height: 20px;
-	width: auto;
-}
 ul.nav {
     list-style-type: none;
     margin: 0;
@@ -23,7 +16,7 @@ ul.nav {
     overflow: hidden;
     background-color: #333;
 }
-ul.nav li {float:left;}
+ul.nav li {display:inline-block;}
 
 ul.nav li a {
     display: inline-block;
