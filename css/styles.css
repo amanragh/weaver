@@ -173,6 +173,7 @@ ul.nav li {
 	content: "** Menu **";
 }
 .nav-btn{
+	position:fixed;
 	display:block;
 	background-color: #333;
 	color:#f2f2f2;
