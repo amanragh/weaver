@@ -19,13 +19,22 @@
 </head>
 
 <body>
-<br/><br/>
+<br/>
+<nav>
 <ul class="nav" id="mynav">
   <li><a href="index.html">Home</a></li>
   <li><a href="submit.html">Submit Post</a></li>
   <li><a href="contact.html">Contact</a></li>
   <li><a href="about.html">About Us</a></li>
+<li><a href="privacy.html">Privacy Policy</a></li>
 </ul>
+</nav>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+  $('span.nav-btn').click(function() {
+    $('ul.nav').slideToggle();
+  })
+</script>
 <br/>
 <table border="0">
 <tr>
