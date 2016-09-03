@@ -169,16 +169,16 @@ ul.nav li {
 	display:none;
 }
 .nav-btn:before{
-	content: "Menu";
+	content: "** Menu **";
 }
 .nav-btn{
 	display:block;
 	background-color: #333;
 	color:#f2f2f2;
-	font-size:18px;
+	font-size:16px;
 	text-align:center;
-	padding-top:10px;
-	padding-bottom:10px;
+	padding-top:5px;
+	padding-bottom:5px;
 }
 
 #sidebar {
