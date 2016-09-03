@@ -169,7 +169,7 @@ ul.nav li {
 	display:none;
 }
 .nav-btn:before{
-	content:'&equiv';
+	content:'&#x2261';
 }
 .nav-btn{
 	display:block;
