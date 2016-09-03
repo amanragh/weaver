@@ -180,6 +180,7 @@ ul.nav li {
 	padding-top:5px;
 	padding-bottom:5px;
 }
+.nav-btn:hover {background-color: #555;}
 
 #sidebar {
 	display:none !important;
