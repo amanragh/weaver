@@ -165,7 +165,7 @@ display:inline-block;
 	display:block;
 }
 .nav{
-	text-align:left;
+	text-align:center;
 	display:none;
 }
 .nav-btn:before{
