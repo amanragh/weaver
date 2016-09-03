@@ -169,11 +169,11 @@ ul.nav li {
 	display:none;
 }
 .nav-btn:before{
-	content: '\2630';
+	content: "Menu";
 }
 .nav-btn{
 	display:block;
-	background-color: blue;
+	background-color: #333;
 	color:#f2f2f2;
 	font-size:18px;
 	text-align:center;
