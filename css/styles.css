@@ -169,7 +169,7 @@ ul.nav li {
 	display:none;
 }
 .nav-btn:before{
-	content:"x2261";
+	content:'#9776';
 }
 .nav-btn{
 	display:block;
