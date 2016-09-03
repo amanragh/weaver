@@ -164,6 +164,9 @@ display:inline-block;
 .nav li a{
 	display:block;
 }
+.nav li {
+	display:block;
+}
 .nav{
 	text-align:center;
 	display:none;
