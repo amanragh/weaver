@@ -36,6 +36,7 @@ ul.nav li a:hover {background-color: #555;}
 #main {
 	height:auto;
 	width:78%;
+	margin-left:2px;
 }
 #sidebar {
 	float:right;
