@@ -46,7 +46,7 @@ ul.nav li a:hover {background-color: #555;}
 
 .green_btn {
 	border-radius: 25px;
-	background-color: #3366ff;
+	background-color: #99b3ff;
 	display: block;
 	width: 154px;
 	height: 45px;
@@ -57,7 +57,7 @@ ul.nav li a:hover {background-color: #555;}
 }
 .g1_btn {
 	border-radius: 25px;
-	background-color: #3366ff;
+	background-color: #99b3ff;
 	display: block;
 	width: 154px;
 	height: 45px;
@@ -68,7 +68,7 @@ ul.nav li a:hover {background-color: #555;}
 }
 .g2_btn {
 	border-radius: 25px;
-	background-color: #3366ff;
+	background-color: #99b3ff;
 	display: block;
 	width: 154px;
 	height: 45px;
@@ -93,21 +93,21 @@ display:inline-block;
 }
 .boxed {
 	display: inline-block;
-	background-color: #ffffff;
+	background-color: #1aff8c;
 	border: 1px solid black;
 	height: auto;
 	width: 18.7em;
 }
 .boxed1 {
 	display:inline-block;
-	background-color: #ffffff;
+	background-color: #1aff8c;
 	border: 1px solid black ;
 	height: auto;
 	width: 18.7em;
 }
 .boxed2 {
 	display:inline-block;
-	background-color: #ffffff;
+	background-color: #1aff8c;
 	border: 1px solid black ;
 	height: auto;
 	width: 18.7em;
