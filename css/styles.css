@@ -195,15 +195,15 @@ ul.nav li {
 .nav-btn:hover {background-color: #555;}
 
 .howto {
-	margin-left:0px;
-	margin-right:0px;
+	margin-left:1px;
+	margin-right:1px;
 	background-color:#FFF;
 	height:100%;
 	width:100%;
 }
 .tutorials {
-	margin-left:0px;
-	margin-right:0px;
+	margin-left:1px;
+	margin-right:1px;
 	background-color:#FFF;
 	height:100%;
 	width:100%;
