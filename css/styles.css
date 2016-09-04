@@ -13,6 +13,9 @@ body {
 	background-color: ;
 	background-image: url(/pictures/logo1.jpg);
 }
+#footer {
+	background-color: black;
+}
 ul.nav {
     list-style-type: none;
     margin: 0;
