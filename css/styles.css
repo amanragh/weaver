@@ -211,9 +211,6 @@ ul.nav li {
 	height:100%;
 	width:100%;
 }
-.boxed, .boxed1, .boxed2 {
-	width:15em;
-}
 
 #sidebar {
 	display:none !important;
