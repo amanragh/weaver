@@ -99,6 +99,7 @@ display:inline-block;
 .boxed {
 	display: inline-block;
 	background-color: #1aff8c;
+	background-image: url(/pictures/green.jpg);
 	border: 1px solid black;
 	height: auto;
 	width: 18.7em;
@@ -106,6 +107,7 @@ display:inline-block;
 .boxed1 {
 	display:inline-block;
 	background-color: #1aff8c;
+	background-image: url(/pictures/green.jpg);
 	border: 1px solid black ;
 	height: auto;
 	width: 18.7em;
@@ -113,6 +115,7 @@ display:inline-block;
 .boxed2 {
 	display:inline-block;
 	background-color: #1aff8c;
+	background-image: url(/pictures/green.jpg);
 	border: 1px solid black ;
 	height: auto;
 	width: 18.7em;
