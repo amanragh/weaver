@@ -212,6 +212,10 @@ ul.nav li {
 	width:100%;
 }
 
+#main {
+	width: 100%;
+}
+
 #sidebar {
 	display:none !important;
     }
