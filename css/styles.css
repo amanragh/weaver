@@ -156,7 +156,8 @@ display:inline-block;
 	font-size: 16px;
 }
 .news {
-	margin:30px;
+	margin-top:15px;
+	margin-left:50px;
 }
 .howto {
 	margin-left:2cm;
@@ -212,7 +213,7 @@ ul.nav li {
 	width:100%;
 }
 .news {
-	margin:15px;
+margin:15px;
 }
 
 #main {
