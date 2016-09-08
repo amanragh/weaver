@@ -40,8 +40,8 @@ ul.nav li a:hover {background-color: #555;}
 
 #main {
 	height:auto;
-	width:78%;
-	margin:2px;
+	width:auto;
+	margin:4px;
 }
 #sidebar {
 	float:right;
