@@ -96,7 +96,8 @@ ul.nav li a:hover {background-color: #555;}
 
 .green_btn , .g1_btn , .g2_btn{
 display: inline-block;
-margin: 2%;
+margin-left: 2%;
+margin-right: 2%;
 }
 
 .boxed {
