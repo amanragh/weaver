@@ -10,8 +10,8 @@ body { margin: 0px;
 	background-color: ;
 	background-image: url(/pictures/logo1.jpg);
 }
-#header_content{
-	width:90%;
+#header_content {
+	margin:10%;
 	text-align:left;
 }
 #footer {
