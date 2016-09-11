@@ -1,9 +1,11 @@
 body { margin: 0px;
 	padding: 0px;
+	text-align:center;
+}
+#header_content{
+	text-align-left;
 }
 
-.container {
-}
 #header {height: 11.25em; width: 100%;}
 #header {
 	font-size: ;
