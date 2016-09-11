@@ -1,7 +1,9 @@
-body { margin: 0px;  padding: 0px;}
+body { margin: 0px;  
+	padding: 0px;
+	text-align:center;
+}
 
 .container {
-	vertical-align: middle;
 }
 #header {height: 11.25em; width: 100%;}
 #header {
