@@ -1,6 +1,5 @@
 body { margin: 0px;
 	padding: 0px;
-	text-align:center;
 }
 
 #header {height: 11.25em; width: 100%;}
@@ -12,7 +11,7 @@ body { margin: 0px;
 	background-image: url(/pictures/logo1.jpg);
 }
 #header_content{
-	text-align:left;
+
 }
 #footer {
 	background-color: black;
