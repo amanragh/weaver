@@ -1,6 +1,9 @@
 body { margin: 0px;
 	padding: 0px;
 }
+.container {
+	text-align:left;
+}
 
 #header {height: 11.25em; width: 100%;}
 #header {
