@@ -1,11 +1,5 @@
-body {
-   margin: 0px;
-   padding: 0px;
-}
-#header {
-	height: 11.25em;
-	width: 100%;
-}
+body { margin: 0px;  padding: 0px;}
+#header {height: 11.25em; width: 100%;}
 #header {
 	font-size: ;
 	font-style: oblique;
@@ -138,9 +132,6 @@ margin-right: 2%;
 	height: 650px;
 }
 
-.anim {
-	float:left;
-}
 .form {
 	border-radius: 25px;
 	width:120px;
@@ -148,9 +139,7 @@ margin-right: 2%;
 	background-color:#000;
 	color:#FFF;
 }
-.form:hover {
-	background-color: #900;
-}
+.form:hover {background-color: #900;}
 .tfield {
 	width:50%;
 	height:30px;
@@ -175,19 +164,16 @@ margin-right: 2%;
 
 @media only screen and (max-width:640px)
 {
-ul.nav li {
-	display:block;
-}
-.nav li a{
-	padding: 14px 16px;
-}
+ul.nav li {display:block;}
+
+.nav li a {padding: 14px 16px;}
+
 .nav{
 	text-align:center;
 	display:none;
 }
-.nav-btn:before{
-	content: "TechVenom ---  ** Menu **";
-}
+.nav-btn:before {content: "TechVenom ---  ** Menu **";}
+
 .nav-btn{
 	display:block;
 	background-color: #333;
@@ -213,19 +199,14 @@ ul.nav li {
 	height:100%;
 	width:100%;
 }
-.news {
-margin:15px;
-}
+.news {margin:15px;}
 
 #main {
 	width: auto;
 	margin:0px;
 }
 
-#sidebar {
-	display:none !important;
-    }
-    
+#sidebar {display:none !important;}
   
 }
 
