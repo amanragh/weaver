@@ -11,7 +11,7 @@ body { margin: 0px;
 	background-image: url(/pictures/logo1.jpg);
 }
 #header_content {
-	margin:10%;
+	margin-left:10%;
 	text-align:left;
 }
 #footer {
