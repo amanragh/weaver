@@ -12,7 +12,7 @@ body { margin: 0px;
 	background-image: url(/pictures/logo1.jpg);
 }
 #header_content{
-
+	text-align:left;
 }
 #footer {
 	background-color: black;
