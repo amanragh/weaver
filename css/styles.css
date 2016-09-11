@@ -1,4 +1,9 @@
 body { margin: 0px;  padding: 0px;}
+
+.container {
+	vertical-align: middle;
+	display: table-cell;
+}
 #header {height: 11.25em; width: 100%;}
 #header {
 	font-size: ;
