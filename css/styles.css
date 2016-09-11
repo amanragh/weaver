@@ -1,8 +1,6 @@
 body { margin: 0px;
 	padding: 0px;
-}
-.container {
-	text-align:left;
+	text-align:center;
 }
 
 #header {height: 11.25em; width: 100%;}
