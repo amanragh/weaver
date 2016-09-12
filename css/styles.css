@@ -173,6 +173,9 @@ margin-right: 2%;
 
 @media only screen and (max-width:640px)
 {
+	
+#wrapper { width:auto; }
+	
 ul.nav li {display:block;}
 
 .nav li a {padding: 14px 16px;}
