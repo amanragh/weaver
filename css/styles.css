@@ -1,6 +1,10 @@
 body { margin: 0px;
 	padding: 0px;
 }
+#wrapper {
+	width:1300px;
+	margin:0px;
+}
 
 #header {height: 11.25em; width: 100%;}
 #header {
