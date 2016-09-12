@@ -2,7 +2,6 @@ body { margin: 0px;
 	padding: 0px;
 }
 #wrapper {
-	width:1300px;
 	margin:0px;
 }
 
@@ -13,10 +12,6 @@ body { margin: 0px;
 	color: #FFFFFF;
 	background-color: ;
 	background-image: url(/pictures/logo1.jpg);
-}
-#header_content {
-	margin-left:10%;
-	text-align:left;
 }
 #footer {
 	background-color: black;
