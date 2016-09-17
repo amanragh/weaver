@@ -1,6 +1,9 @@
 body { margin: 0px;
 	padding: 0px;
 }
+#wrap { margin: 0px;
+	padding: 0px;
+}
 
 #header {height: 11.25em; width: 100%;}
 #header {
