@@ -218,7 +218,7 @@ ul.nav li {display:block;}
   
 }
 
-@media only screen and (max-width:480px)
+@media only screen and (max-width:320px)
 {
 	.boxed{ width: auto; }
 	.boxed1{ width: auto; }
