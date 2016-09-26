@@ -192,10 +192,6 @@ ul.nav li {display:block;}
 	padding-bottom:10px;
 }
 .nav-btn:hover {background-color: #555;}
-	
-.boxed { width: auto; }
-.boxed1 { width: auto; }
-.boxed2 { width: auto; }
 
 .howto {
 	margin-left:1px;
@@ -220,6 +216,13 @@ ul.nav li {display:block;}
 
 #sidebar {display:none !important;}
   
+}
+
+@media only screen and (max-width:480px)
+{
+	.boxed{ width: auto; }
+	.boxed1{ width: auto; }
+	.boxed2{ width: auto; }
 }
 
 #share-buttons img {
