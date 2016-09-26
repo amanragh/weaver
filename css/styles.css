@@ -107,7 +107,7 @@ margin-right: 2%;
 	background-image: url(/pictures/green.jpg);
 	border: 1px solid black;
 	height: auto;
-	width: 19em;
+	width: 21em;
 }
 .boxed1 {
 	display:inline-block;
@@ -115,7 +115,7 @@ margin-right: 2%;
 	background-image: url(/pictures/green.jpg);
 	border: 1px solid black ;
 	height: auto;
-	width: 19em;
+	width: 21em;
 }
 .boxed2 {
 	display:inline-block;
@@ -123,7 +123,7 @@ margin-right: 2%;
 	background-image: url(/pictures/green.jpg);
 	border: 1px solid black ;
 	height: auto;
-	width: 19em;
+	width: 21em;
 }
 .boxed, .boxed1, .boxed2 {
 	margin-left:2%;
