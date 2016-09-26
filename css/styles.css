@@ -50,6 +50,12 @@ ul.nav li a:hover {background-color: #555;}
 	width:20%;
 }
 
+#buttons {
+	width: 100%;
+	height: auto;
+	background-color: #ccccb3;
+}
+
 .green_btn {
 	border-radius: 25px;
 	background-color: #809fff;
