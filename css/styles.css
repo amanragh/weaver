@@ -54,6 +54,7 @@ ul.nav li a:hover {background-color: #555;}
 	width: 100%;
 	height: auto;
 	background-color: #b3b3b3;
+	background-image: url(/pictures/grey_back.jpg);
 }
 
 .green_btn {
