@@ -66,8 +66,8 @@ ul.nav li a:hover {background-color: #555;}
 	height: 45px;
 }
 .green_btn:hover {
-	background-color: #0033FF;
-	color: #ffffff;
+	background-color: #66b3ff;
+	color: black;
 }
 .g1_btn {
 	border-radius: 25px;
@@ -78,8 +78,8 @@ ul.nav li a:hover {background-color: #555;}
 	height: 45px;
 }
 .g1_btn:hover {
-	background-color: #0033FF;
-	color: #ffffff;
+	background-color: #66b3ff;
+	color: black;
 }
 .g2_btn {
 	border-radius: 25px;
@@ -90,8 +90,8 @@ ul.nav li a:hover {background-color: #555;}
 	height: 45px;
 }
 .g2_btn:hover {
-	background-color: #0033FF;
-	color: #ffffff;
+	background-color: #66b3ff;
+	color: black;
 }
 .g3_btn {
 	border-radius: 35px;
