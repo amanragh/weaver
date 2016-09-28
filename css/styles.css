@@ -60,35 +60,38 @@ ul.nav li a:hover {background-color: #555;}
 .green_btn {
 	border-radius: 25px;
 	background-color: #660066;
+	color: #ffffff;
 	display: block;
 	width: 154px;
 	height: 45px;
 }
 .green_btn:hover {
 	background-color: #0033FF;
-	color: #ffffff;
+	color: #000;
 }
 .g1_btn {
 	border-radius: 25px;
 	background-color: #660066;
+	color: #ffffff;
 	display: block;
 	width: 154px;
 	height: 45px;
 }
 .g1_btn:hover {
 	background-color: #0033FF;
-	color: #ffffff;
+	color: #000;
 }
 .g2_btn {
 	border-radius: 25px;
 	background-color: #660066;
+	color: #ffffff;
 	display: block;
 	width: 154px;
 	height: 45px;
 }
 .g2_btn:hover {
 	background-color: #0033FF;
-	color: #ffffff;
+	color: #000;
 }
 .g3_btn {
 	border-radius: 35px;
