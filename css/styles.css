@@ -42,7 +42,7 @@ ul.nav li a:hover {background-color: #555;}
 #main {
 	height:auto;
 	width:auto;
-	margin:10%;
+	margin-left:10%;
 }
 #sidebar {
 	float:right;
