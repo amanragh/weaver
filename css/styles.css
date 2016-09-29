@@ -41,7 +41,7 @@ ul.nav li a:hover {background-color: #555;}
 
 #main {
 	height:auto;
-	width:auto;
+	width:50em;
 	margin:15px;
 }
 #sidebar {
