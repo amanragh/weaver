@@ -243,7 +243,7 @@ ul.nav li {display:block;}
 	.boxed2{ width: auto; }
 }
 
-@media only screen and (max-width:1080px)
+@media only screen and (max-width:1260px)
 	{
 		.title {
 			width: 90%;
