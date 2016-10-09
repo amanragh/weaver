@@ -243,6 +243,13 @@ ul.nav li {display:block;}
 	.boxed2{ width: auto; }
 }
 
+@media only screen and (max-width:1080px)
+	{
+		.title {
+			width: 90%;
+		}
+	}
+
 #share-buttons img {
 width: 35px;
 padding: 5px;
