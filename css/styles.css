@@ -43,6 +43,11 @@ ul.nav li a {
 }
 ul.nav li a:hover {background-color: #555;}
 
+.title {
+	text-align:left;
+	width:70em;
+}
+
 #main {
 	height:auto;
 	width:90%;
