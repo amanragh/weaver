@@ -7,12 +7,10 @@ body { margin: 0px;
 
 #header {height: 11.25em; width: 100%;}
 #header {
-	font-size: ;
 	font-style: oblique;
 	color: #FFFFFF;
 	background-color: ;
 	background-image: url(/pictures/logo1.jpg);
-	overflow:visible;
 }
 #footer {
 	background-color: black;
