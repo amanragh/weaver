@@ -252,6 +252,9 @@ ul.nav li {display:block;}
 		.title {
 			width: 90%;
 		}
+		.tutorials {
+			width: auto;
+		}
 	}
 
 #share-buttons img {
