@@ -180,6 +180,10 @@ margin-right: 2%;
 	height:100%;
 	width:65%;
 }
+.tutorials {
+	width: 75em;
+	text-align: left;
+}
 .css {
 	margin-left:2cm;
 	background-color:#FFF;
