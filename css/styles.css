@@ -180,11 +180,11 @@ margin-right: 2%;
 	height:100%;
 	width:65%;
 }
-.tutorials {
+.css {
 	margin-left:2cm;
 	background-color:#FFF;
 	height:100%;
-	width:50em;
+	width:65%;
 }
 
 @media only screen and (max-width:640px)
