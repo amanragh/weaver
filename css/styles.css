@@ -223,6 +223,8 @@ ul.nav li {display:block;}
 	width:100%;
 }
 .css {
+	margin-left:0px;
+	margin-right:0px;
 	background-color:#FFF;
 	height:100%;
 	width:100%;
