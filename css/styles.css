@@ -176,6 +176,7 @@ margin-right: 2%;
 }
 .howto {
 	width: 75em;
+	text-align: left;
 }
 .wifi {
 	margin-left:2cm;
@@ -185,6 +186,7 @@ margin-right: 2%;
 }
 .tutorials {
 	width: 75em;
+	text-align: left;
 }
 .css {
 	margin-left:2cm;
