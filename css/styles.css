@@ -175,6 +175,9 @@ margin-right: 2%;
 	margin-left:50px;
 }
 .howto {
+	width: 75em;
+}
+.wifi {
 	margin-left:2cm;
 	background-color:#FFF;
 	height:100%;
@@ -182,7 +185,6 @@ margin-right: 2%;
 }
 .tutorials {
 	width: 75em;
-	text-align: left;
 }
 .css {
 	margin-left:2cm;
@@ -215,7 +217,7 @@ ul.nav li {display:block;}
 }
 .nav-btn:hover {background-color: #555;}
 
-.howto {
+.wifi {
 	margin-left:1px;
 	margin-right:1px;
 	background-color:#FFF;
@@ -253,6 +255,9 @@ ul.nav li {display:block;}
 			width: 90%;
 		}
 		.tutorials {
+			width: 100%;
+		}
+		.howto {
 			width: 100%;
 		}
 	}
