@@ -220,8 +220,8 @@ ul.nav li {display:block;}
 .nav-btn:hover {background-color: #555;}
 
 .wifi {
-	margin-left:1px;
-	margin-right:1px;
+	margin-left:0px;
+	margin-right:0px;
 	background-color:#FFF;
 	height:100%;
 	width:100%;
