@@ -174,7 +174,11 @@ margin-right: 2%;
 	height:30px;
 	font-size: 16px;
 }
-.news {
+.others {
+	text-align:left;
+	width:75em;
+}
+.posts {
 	margin-top:15px;
 	margin-left:50px;
 }
@@ -245,7 +249,7 @@ ul.nav li {display:block;}
 	height:100%;
 	width:100%;
 }
-.news {margin:15px;}
+.posts {margin:15px;}
 
 #main {
 	width: auto;
@@ -278,6 +282,9 @@ ul.nav li {display:block;}
 			width: 100%;
 		}
 		.privacy {
+			width: 100%;
+		}
+		.others {
 			width: 100%;
 		}
 	}
