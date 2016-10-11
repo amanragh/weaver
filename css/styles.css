@@ -156,10 +156,6 @@ margin-right: 2%;
 	width: 80%;
 	height: 650px;
 }
-.joining {
-	text-align:left;
-	width:75em;
-}
 
 .form {
 	border-radius: 25px;
@@ -174,37 +170,20 @@ margin-right: 2%;
 	height:30px;
 	font-size: 16px;
 }
-.others {
-	text-align:left;
-	width:75em;
-}
 .posts {
 	margin-top:15px;
 	margin-left:50px;
 }
-.howto {
+
+.outer {
 	width: 75em;
 	text-align: left;
 }
-.wifi {
+.inner {
 	margin-left:2cm;
 	background-color:#FFF;
 	height:100%;
 	width:65%;
-}
-.tutorials {
-	width: 75em;
-	text-align: left;
-}
-.css {
-	margin-left:2cm;
-	background-color:#FFF;
-	height:100%;
-	width:65%;
-}
-.privacy {
-	text-align:left;
-	width:75em;
 }
 
 
@@ -235,20 +214,14 @@ ul.nav li {display:block;}
 }
 .nav-btn:hover {background-color: #555;}
 
-.wifi {
+.inner {
 	margin-left:0px;
 	margin-right:0px;
 	background-color:#FFF;
 	height:100%;
 	width:100%;
 }
-.css {
-	margin-left:0px;
-	margin-right:0px;
-	background-color:#FFF;
-	height:100%;
-	width:100%;
-}
+	
 .posts {margin:15px;}
 
 #main {
@@ -272,19 +245,7 @@ ul.nav li {display:block;}
 		.title {
 			width: 90%;
 		}
-		.tutorials {
-			width: 100%;
-		}
-		.howto {
-			width: 100%;
-		}
-		.joining {
-			width: 100%;
-		}
-		.privacy {
-			width: 100%;
-		}
-		.others {
+		.outer {
 			width: 100%;
 		}
 	}
