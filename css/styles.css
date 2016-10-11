@@ -196,10 +196,8 @@ margin-right: 2%;
 ul.nav li {display:block;}
 
 .nav li a {padding: 14px 16px;}
-	
-.nav_con { display: none !important; }
 
-.nav{
+.nav_con{
 	text-align:center;
 	display:none;
 }
