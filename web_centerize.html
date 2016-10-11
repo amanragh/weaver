@@ -1,0 +1,169 @@
+ARTICLE FORMAT
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>How to centerize a website (while zooming out) </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link href="css/styles.css" rel="stylesheet" type="text/css" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-82826360-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</head>
+
+<body bgcolor="#CCCCCC">
+
+<nav>
+  <span class="nav-btn"></span>
+<ul class="nav">
+  <center>
+    <div class="nav_con">
+
+  <li><a href="index.html"><b><font size="+2" style="color:red"> Tech </font> <font size="+2" style="color:yellow"> Venom </font> </b></a></li>
+  <li><a href="submit.html">SUBMIT POST</a></li>
+  <li><a href="contact.html">CONTACT US</a></li>
+  <li><a href="about.html">ABOUT US</a></li>
+  <li><a href="privacy.html">PRIVACY POLICY</a></li>
+
+    </div></center>
+</ul>
+</nav>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script>
+  $('span.nav-btn').click(function() {
+    $('ul.nav').slideToggle();
+  })
+</script>
+<br/>
+
+  <center>
+    <div class="outer">
+      
+<div id="sidebar">
+<center><div class="ads">
+  <font size="-1">Advertisement</font>
+</div>
+</center>
+</div>
+
+<div id="share-buttons">
+<a href="http://www.facebook.com/sharer.php?u=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+    </a>
+    <a href="https://plus.google.com/share?url=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+    </a>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/share?url=https://simplesharebuttons.com&amp;text=Simple%20Share%20Buttons&amp;hashtags=simplesharebuttons" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+    </a>
+    </div>
+
+<div class="inner"><br/>
+<div style="margin:1cm">
+<h2> <font size="+3"> How to centerize a website (while zooming out) </font></h2>  <br/>
+<img src="" width="70%" height="200px" />
+<br/><br/>
+<font size="+1">
+Want perfection in your website by making contents centered while zooming out ?? <br/>
+Don’t wan’t to use predesigned themes ?? <br/>
+You are at the right place. <br/>
+You will come across so many articles on the internet on how to centerize your website but according to my personal experience, no one explains clearly how to do that. <br/>
+Today, I am going to explain the whole process to arrange the contents of your website in center while zooming it out. <br/>
+So, the steps are as follows : <br/>
+<ul>
+<li> First of all, go to your HTML coding of part of the website, you want to center.  </li>
+<li> Now, before your content part, put a <center> tag and then wrap the whole content in a ‘div’ class. You can give any name to that div class.   </li>
+<li> Then, come to the CSS part of coding.  </li>
+<li> Here, You have to assign properties to the div class you created in previous step.  </li>
+<li> In this class, you just have to assign to properties that are “text-align: left” and “width: 75em”  just like below image : <br/>
+“Text-align: left” property makes your text start from the left instead of starting from the center part. <br/>
+And the “width:” property ensures that you have a fixed width while zooming out your website. <br/>
+<b> Note: Onle use ‘em’ unit to define the width size. Because, according to me, it’s the best unit we got for defining the size in CSS. ‘em’ unit adjusts itself according to the screen resolution without compelling you to make additional efforts. <b> <br/>
+<li> You also have to  keep this in your mind that your website must not destroy the responsiveness property at any cost. So, you have to make some changes in the “media queries” of your CSS part also.  </li>
+<li> So, in your CSS code, just put a media query having max width of around 1260px and set the width of div (created in previous step) to 100% or as per your wish, but below 100%. It can be shown as below: <br/><br/>
+@media only screen and (max-width:1260px)
+		{
+			.title {
+				width: 90%;
+			}
+			.outer {
+				width: 100%;
+			}
+		}
+
+ </li>
+<li> Here, “.title” and ”.outer” are the example of my div classes. </li>
+</ul>
+
+</font>
+<br/><br/>
+<b>Posted by :  Ankit Kumar</b>
+</font> <br/><br/>
+
+<br/><br/>
+
+<div id="share-buttons">
+<a href="http://www.facebook.com/sharer.php?u=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
+    </a>
+    <a href="https://plus.google.com/share?url=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
+    </a>
+    <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://simplesharebuttons.com" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/share?url=https://simplesharebuttons.com&amp;text=Simple%20Share%20Buttons&amp;hashtags=simplesharebuttons" target="_blank">
+        <img src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
+    </a>
+    </div> <br/><br/>
+
+<div id="disqus_thread"></div>                                    
+<script type="text/javascript">
+/**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+/*var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+}; */
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//techvenom-com.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>
+Please enable JavaScript to view the<a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+
+
+</div>
+</div>
+    </div> </center>
+
+<br/><br/><br/><br/>
+
+<div id="footer">
+  <br/><br/>
+<center><a font style="color:white" href="index.html">Home</a> &emsp; <a font style="color:white" href="about.html">About Us</a> &emsp; <a font style="color:white" href="terms.html">Terms & Conditions</a> &emsp; <a font style="color:white" href="privacy.html">Privacy Policy</a>
+<br/><br/><br/>
+
+<font size="-1" style="color:white">Copyright © 2016 TechVenom.  All Rights Reserved.</font></center>
+<br/><br/>
+</div>
+<script id="dsq-count-scr" src="//techvenom-com.disqus.com/count.js" async></script>
+</body>
+</html>
+
