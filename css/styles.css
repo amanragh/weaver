@@ -194,6 +194,10 @@ margin-right: 2%;
 	height:100%;
 	width:65%;
 }
+.privacy {
+	text-align:left;
+	width:75em;
+}
 
 @media only screen and (max-width:640px)
 {
@@ -260,6 +264,9 @@ ul.nav li {display:block;}
 			width: 100%;
 		}
 		.howto {
+			width: 100%;
+		}
+		.privacy {
 			width: 100%;
 		}
 	}
