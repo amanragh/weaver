@@ -199,6 +199,10 @@ margin-right: 2%;
 	width:75em;
 }
 
+
+/* media queries for resposive design */
+
+
 @media only screen and (max-width:640px)
 {
 	
