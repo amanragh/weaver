@@ -153,8 +153,13 @@ margin-right: 2%;
 .ads {
 	float: right;
 	background-color: #999999;
-	width: 80%;
+	width: 90%;
 	height: 650px;
+}
+.ads1 {
+	background-color: #999999;
+	width: 90%;
+	height: 200px;
 }
 
 .form {
